@@ -1,2 +1,13 @@
 # literature-review
-As part of an ongoing graduate level course, I have been reading some literature. Most of this is in Deep Learning and Computer Vision. I will add short summaries of those papers here.
+I have been reading some literature. Most of it is in Deep Learning and Computer Vision. I will add short summaries of those papers here.
+
+# Links to summaries by types
+
+### Deep Learning
+* [SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient](SeqGAN.pdf)
+
+### Generative models
+* [SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient](SeqGAN.pdf)
+
+### Reinforcement Learning 
+* [SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient](SeqGAN.pdf)
