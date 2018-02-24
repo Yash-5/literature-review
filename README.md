@@ -13,4 +13,4 @@ I have been reading some literature. Most of it is in Deep Learning and Computer
 * [SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient](SeqGAN.pdf)
 
 ### Adversarial images
-* [Countering Adversarial Images using Input Transformation](input-transformations.pdf)
+* [Countering Adversarial Images using Input Transformations](input-transformations.pdf)
