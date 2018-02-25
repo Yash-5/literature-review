@@ -5,6 +5,7 @@ I have been reading some literature. Most of it is in Deep Learning and Computer
 
 ### Deep Learning
 * [SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient](SeqGAN.pdf)
+* [Explaining and Harnessing Adversarial Examples](Explaining-and-Harnessing-Adversarial-Examples.pdf)
 
 ### Generative models
 * [SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient](SeqGAN.pdf)
@@ -14,3 +15,4 @@ I have been reading some literature. Most of it is in Deep Learning and Computer
 
 ### Adversarial images
 * [Countering Adversarial Images using Input Transformations](input-transformations.pdf)
+* [Explaining and Harnessing Adversarial Examples](Explaining-and-Harnessing-Adversarial-Examples.pdf)
