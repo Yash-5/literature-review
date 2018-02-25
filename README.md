@@ -6,9 +6,11 @@ I have been reading some literature. Most of it is in Deep Learning and Computer
 ### Deep Learning
 * [SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient](SeqGAN.pdf)
 * [Explaining and Harnessing Adversarial Examples](Explaining-and-Harnessing-Adversarial-Examples.pdf)
+* [MGAN: Training Generative Adversarial Nets With Multiple Generators](MGAN.pdf)
 
 ### Generative models
 * [SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient](SeqGAN.pdf)
+* [MGAN: Training Generative Adversarial Nets With Multiple Generators](MGAN.pdf)
 
 ### Reinforcement Learning 
 * [SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient](SeqGAN.pdf)
