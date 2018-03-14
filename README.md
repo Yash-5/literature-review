@@ -10,12 +10,15 @@ I have been reading some literature. Most of it is in Deep Learning and Computer
 * [Explaining and Harnessing Adversarial Examples](Explaining-and-Harnessing-Adversarial-Examples.pdf)
 * [Generative Multi Adversarial Networks](GMAN.pdf)
 * [Progressive Growing of GANs for Improved Quality, Stability, and Variation](progressive-gan.pdf)
+* [On the Effects of Batch and Weight Normalization in Generative Adversarial Networks](Weight-Normalization-in-GANs.pdf)
+  
 
 ### Generative models
 * [SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient](SeqGAN.pdf)
 * [MGAN: Training Generative Adversarial Nets With Multiple Generators](MGAN.pdf)
 * [Generative Multi Adversarial Networks](GMAN.pdf)
 * [Progressive Growing of GANs for Improved Quality, Stability, and Variation](progressive-gan.pdf)
+* [On the Effects of Batch and Weight Normalization in Generative Adversarial Networks](Weight-Normalization-in-GANs.pdf)
 
 ### Reinforcement Learning 
 * [SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient](SeqGAN.pdf)
