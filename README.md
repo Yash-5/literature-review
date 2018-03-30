@@ -11,6 +11,7 @@ I have been reading some literature. Most of it is in Deep Learning and Computer
 * [Generative Multi Adversarial Networks](GMAN.pdf)
 * [Progressive Growing of GANs for Improved Quality, Stability, and Variation](progressive-gan.pdf)
 * [On the Effects of Batch and Weight Normalization in Generative Adversarial Networks](Weight-Normalization-in-GANs.pdf)
+* [ST-GAN: Spatial Transformer Generative Adversarial Networks for Image Compositing](ST-GAN.pdf)
   
 
 ### Generative models
@@ -19,6 +20,7 @@ I have been reading some literature. Most of it is in Deep Learning and Computer
 * [Generative Multi Adversarial Networks](GMAN.pdf)
 * [Progressive Growing of GANs for Improved Quality, Stability, and Variation](progressive-gan.pdf)
 * [On the Effects of Batch and Weight Normalization in Generative Adversarial Networks](Weight-Normalization-in-GANs.pdf)
+* [ST-GAN: Spatial Transformer Generative Adversarial Networks for Image Compositing](ST-GAN.pdf)
 
 ### Reinforcement Learning 
 * [SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient](SeqGAN.pdf)
