@@ -28,3 +28,5 @@ I have been reading some literature. Most of it is in Deep Learning and Computer
 ### Adversarial images
 * [Countering Adversarial Images using Input Transformations](input-transformations.pdf)
 * [Explaining and Harnessing Adversarial Examples](Explaining-and-Harnessing-Adversarial-Examples.pdf)
+* [DeepFool: a simple and accurate method to fool deep neural networks](Deepfool.pdf)
+* [Towards Evaluating the Robustness of Neural Networks](Carlini-Wagner.pdf)
